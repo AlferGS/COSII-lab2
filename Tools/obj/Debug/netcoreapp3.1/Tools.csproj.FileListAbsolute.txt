@@ -1,0 +1,20 @@
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.deps.json
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfoInputs.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfo.cs
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.csproj.CoreCompileInputs.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.csproj.AssemblyReference.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.deps.json
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\bin\Debug\netcoreapp3.1\Tools.pdb
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.csproj.AssemblyReference.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfoInputs.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.AssemblyInfo.cs
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.csproj.CoreCompileInputs.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\Tools\obj\Debug\netcoreapp3.1\Tools.pdb

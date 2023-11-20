@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgmrmhaW17sBOjHN0m5oP+o5kz30SJWKU5Gbuf/ft0ajNOFIeL+tSGp3UP6ddeOXZ61M17U4Z/DZfRE1APhVCw==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Всякое за 7 сем\\Цосии\\ImageProcessing\\ImageProcessingTools\\ImageProcessingTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barab\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\barab\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

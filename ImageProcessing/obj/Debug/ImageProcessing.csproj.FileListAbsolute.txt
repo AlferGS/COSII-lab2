@@ -1,0 +1,13 @@
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessingTools.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessingTools.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CopyComplete

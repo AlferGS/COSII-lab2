@@ -1,0 +1,30 @@
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.AssemblyReference.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.AssemblyInfoInputs.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.AssemblyInfo.cs
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.CoreCompileInputs.cache
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.deps.json
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageMarshalling.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\Tools.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageMarshalling.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\Tools.pdb
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.CopyComplete
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.dll
+D:\Documents\учеба, блэт\allLabs\ЦОСиИ\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.pdb
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.deps.json
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageAnalysis.pdb
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageMarshalling.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\Tools.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\ImageMarshalling.pdb
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\bin\Debug\netcoreapp3.1\Tools.pdb
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.AssemblyReference.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.AssemblyInfoInputs.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.AssemblyInfo.cs
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.CoreCompileInputs.cache
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.csproj.CopyComplete
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.dll
+D:\Учёба\Всякое за 7 сем\Цосии\ImageProcessing\ImageAnalysis\obj\Debug\netcoreapp3.1\ImageAnalysis.pdb

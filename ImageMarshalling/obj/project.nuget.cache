@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1vqmkhFoIt9zwjeDUxPjnZgVsmT/yZ9PbcEkBkh8D1wEmyGSUhFxguKisXiiczA8/M29npDnYzRjS5O+je/uA==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Всякое за 7 сем\\Цосии\\ImageProcessing\\ImageMarshalling\\ImageMarshalling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barab\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\barab\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
